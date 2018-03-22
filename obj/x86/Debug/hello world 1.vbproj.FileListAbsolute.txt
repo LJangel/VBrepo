@@ -1,0 +1,6 @@
+C:\Users\lj\Desktop\repos\VBrepo\bin\Debug\ConsoleApplication.exe
+C:\Users\lj\Desktop\repos\VBrepo\bin\Debug\ConsoleApplication.pdb
+C:\Users\lj\Desktop\repos\VBrepo\obj\x86\Debug\hello world 1.vbprojResolveAssemblyReference.cache
+C:\Users\lj\Desktop\repos\VBrepo\obj\x86\Debug\hello world 1.vbproj.CoreCompileInputs.cache
+C:\Users\lj\Desktop\repos\VBrepo\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\lj\Desktop\repos\VBrepo\obj\x86\Debug\ConsoleApplication.pdb
