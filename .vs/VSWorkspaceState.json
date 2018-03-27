@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WindowsApp1",
+    "\\WindowsApp1\\WindowsApp1",
+    "\\WpfFirstApp",
+    "\\WpfFirstApp\\WpfFirstApp",
+    "\\WpfFirstApp\\WpfFirstApp\\bin\\Release"
   ],
-  "SelectedNode": "\\file1.vb",
+  "SelectedNode": "\\WpfFirstApp\\WpfFirstApp\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
